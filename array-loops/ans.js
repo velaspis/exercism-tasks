@@ -22,8 +22,7 @@ export function cardTypeCheck(stack, card) {
     /**
      * Determine how many cards are odd or even
      *
-     * @param {number[]} stack
-     * @param {boolean} type the type of value to check for - odd or even
+   he type of value to check for - odd or even
      * @returns {number} number of cards that are either odd or even (depending on `type`)
      */
     export function determineOddEvenCards(deck, even) {
